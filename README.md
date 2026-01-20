@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a beginner Python programmer, mainly focused on machine learning and data analysis. I work with data preprocessing, visualization, basic machine learning models, and research data analysis. I am constantly learning new technologies and improving my programming skills.<br>I am always open to learning from experienced programmers and am happy to share my knowledge with them
+I am a beginner Python programmer, mainly focused on machine learning and data analysis. I work with data preprocessing, visualization, basic machine learning models, and research data analysis. I am constantly learning new technologies and improving my programming skills.<br>I am always open to learning from experienced programmers and am happy to share my knowledge with them.
 
 
 ## 🌐 Socials:
